@@ -6,7 +6,7 @@
         "pricingData": [
             {
                 "id": 1,
-                "cardName": "card active",
+                "cardName": "card",
                 "package": "Starter",
                 "currency": "$",
                 "price": "29",
