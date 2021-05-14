@@ -100,7 +100,46 @@
     "contact": {
         "heading": "Ready to Book your Shipment?",
         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quaerat iusto vel aliquid adipisci quia pariatur libero dolor, ducimus voluptatum.",
-        "btn": "Contact Us"
+        "btn": "Contact Us",
+        "formHeading": "Have any Query? Get Started!",
+        "formContent": "Fill all fields so we can get some info about you. We'll never send you spam",
+        "formBtn": "Request a Quote",
+        "formData": [
+            {
+                "id": 1,
+                "title": "Road Freight"
+            },
+            {
+                "id": 2,
+                "title": "Train Freight"
+            },
+            {
+                "id": 3,
+                "title": "Air Freight"
+            },
+            {
+                "id": 4,
+                "title": "Ocean Freight"
+            }
+        ],
+        "formDataTwo": [
+            {
+                "id": 1,
+                "title": "Fragile"
+            },
+            {
+                "id": 2,
+                "title": "Express Delivery"
+            },
+            {
+                "id": 3,
+                "title": "Insurance"
+            },
+            {
+                "id": 4,
+                "title": "Urgent"
+            }
+        ]
     },
     "footer": {
         "image": "/img/logo.png",
