@@ -2,7 +2,7 @@
     "pricing": {
         "heading": "Choose your Perfect Plan",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "contentTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "pricingData": [
             {
                 "id": 1,
@@ -57,7 +57,7 @@
     "features": {
         "heading": "Explore Features",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "contentTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "featureData": [
             {
                 "id": 1,
