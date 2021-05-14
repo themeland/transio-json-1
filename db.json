@@ -104,6 +104,10 @@
         "formHeading": "Have any Query? Get Started!",
         "formContent": "Fill all fields so we can get some info about you. We'll never send you spam",
         "formBtn": "Request a Quote",
+        "select_1": "Fragile",
+        "select_2": "Express Delivery",
+        "select_3": "Insurance",
+        "select_4": "Urgent",
         "formData": [
             {
                 "id": 1,
@@ -120,24 +124,6 @@
             {
                 "id": 4,
                 "title": "Ocean Freight"
-            }
-        ],
-        "formDataTwo": [
-            {
-                "id": 1,
-                "title": "Fragile"
-            },
-            {
-                "id": 2,
-                "title": "Express Delivery"
-            },
-            {
-                "id": 3,
-                "title": "Insurance"
-            },
-            {
-                "id": 4,
-                "title": "Urgent"
             }
         ]
     },
