@@ -1,0 +1,179 @@
+{
+    "pricing": {
+        "heading": "Choose your Perfect Plan",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "pricingData": [
+            {
+                "id": 1,
+                "cardName": "card active",
+                "package": "Starter",
+                "currency": "$",
+                "price": "29",
+                "icon_1": "fas fa-check mr-2",
+                "icon_2": "fas fa-check mr-2",
+                "icon_3": "fas fa-check mr-2",
+                "icon_4": "fas fa-times mr-2",
+                "li_1": "General Coverage",
+                "li_2": "Courier delivery",
+                "li_3": "Direct client contact",
+                "li_4": "Customs Clearance",
+                "btn": "Purchase Now"
+            },
+            {
+                "id": 2,
+                "cardName": "card active",
+                "package": "Basic",
+                "currency": "$",
+                "price": "49",
+                "icon_1": "fas fa-check mr-2",
+                "icon_2": "fas fa-check mr-2",
+                "icon_3": "fas fa-check mr-2",
+                "icon_4": "fas fa-times mr-2",
+                "li_1": "General Coverage",
+                "li_2": "Courier delivery",
+                "li_3": "Direct client contact",
+                "li_4": "Customs Clearance",
+                "btn": "Purchase Now"
+            },
+            {
+                "id": 3,
+                "cardName": "card",
+                "package": "Pro",
+                "currency": "$",
+                "price": "89",
+                "icon_1": "fas fa-check mr-2",
+                "icon_2": "fas fa-check mr-2",
+                "icon_3": "fas fa-check mr-2",
+                "icon_4": "fas fa-check mr-2",
+                "li_1": "General Coverage",
+                "li_2": "Courier delivery",
+                "li_3": "Direct client contact",
+                "li_4": "Customs Clearance",
+                "btn": "Purchase Now"
+            }
+        ]
+    },
+    "features": {
+        "heading": "Explore Features",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "featureData": [
+            {
+                "id": 1,
+                "icon": "feature-icons flaticon-diagram text-effect",
+                "title": "Simple Reporting",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 2,
+                "icon": "feature-icons flaticon-shipping text-effect",
+                "title": "Global Coverage",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 3,
+                "icon": "feature-icons flaticon-route text-effect",
+                "title": "Track and Trace",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 4,
+                "icon": "feature-icons flaticon-tap text-effect",
+                "title": "Easy Booking",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 5,
+                "icon": "feature-icons flaticon-interest-rate text-effect",
+                "title": "Monthly Fixed Rates",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 6,
+                "icon": "feature-icons flaticon-online-chat text-effect",
+                "title": "Customer Support",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    },
+    "contact": {
+        "heading": "Ready to Book your Shipment?",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quaerat iusto vel aliquid adipisci quia pariatur libero dolor, ducimus voluptatum.",
+        "btn": "Contact Us"
+    },
+    "footer": {
+        "image": "/img/logo.png",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+        "title_1": "Useful Links",
+        "title_2": "Services",
+        "title_3": "Subscribe Us",
+        "icon": "icon-paper-plane",
+        "icons": [
+            {
+                "id": 1,
+                "link": "facebook",
+                "icon": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "twitter",
+                "icon": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "google-plus",
+                "icon": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "link": "vine",
+                "icon": "fab fa-vine"
+            }
+        ],
+        "list": [
+            {
+                "id": 1,
+                "text": "Home"
+            },
+            {
+                "id": 2,
+                "text": "About Us"
+            },
+            {
+                "id": 3,
+                "text": "Services"
+            },
+            {
+                "id": 4,
+                "text": "Blog"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "listTwo": [
+            {
+                "id": 1,
+                "text": "Road Transport"
+            },
+            {
+                "id": 2,
+                "text": "Air Freight"
+            },
+            {
+                "id": 3,
+                "text": "Train Freight"
+            },
+            {
+                "id": 4,
+                "text": "Ocean Freight"
+            },
+            {
+                "id": 5,
+                "text": "Customs Clearance"
+            }
+        ]
+    }
+}
