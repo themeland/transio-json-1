@@ -127,6 +127,40 @@
             }
         ]
     },
+    "news": {
+        "newsData": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "author": "Junaid Hasan",
+                "date": "May 05, 2021",
+                "title": "A Simple Way to Ship – International Loading Priority for your Freight",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "author": "Anna Sword",
+                "date": "Sep 09, 2021",
+                "title": "Your Guide to Freight Containers 2021",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "author": "John Doe",
+                "date": "Aug 17, 2021",
+                "title": "Documents you Need When Shipping your Cargo",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            }
+        ]
+    },
     "footer": {
         "image": "/img/logo.png",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
